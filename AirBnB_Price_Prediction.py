@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
+
 # Configure the Streamlit page
 st.set_page_config(page_title="SmartPrice: Airbnb Price Recommender", layout="wide")
 
