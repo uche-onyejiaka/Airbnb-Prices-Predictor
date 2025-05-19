@@ -148,7 +148,8 @@ Make sure listings.csv is placed in the root folder of the project. You can get 
 
 4. Run the App
 
-streamlit run AirBnB_Price_Prediction.py
+python3 -m streamlit run AirBnB_Price_Prediction.py
+
 -You’ll be directed to http://localhost:8501 where you can interact with the app.
 
 🧠 How It Works
